@@ -41,8 +41,8 @@ public class MainActivity extends AppCompatActivity {
 //        Log.d("BBB",String.valueOf(result4));
 
 //      5->10
-        Random random = new Random();
-        int result5= random.nextInt(10-5 +1)+5;
-        Log.d("BBB",String.valueOf(result5));
+//        Random random = new Random();
+//        int result5= random.nextInt(10-5 +1)+5;
+//        Log.d("BBB",String.valueOf(result5));
     }
 }
